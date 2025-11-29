@@ -15,4 +15,4 @@ Fitur:
 - ubah(nama): mengubah data berdasarkan nama
 
 # Flowchart 
-![alt image] ()
+![alt image] (https://github.com/MugiMPambdi/Praktikum-6-Pert.11/blob/624f1d33415baef279dc6f3b334805d9e6af32f3/Screenshoot%20kodingan/flowchart%20praktikum.jpeg)
