@@ -15,4 +15,4 @@ Fitur:
 - ubah(nama): mengubah data berdasarkan nama
 
 # Flowchart 
-![alt image] (Screenshoot kodingan/flowchart praktikum.jpeg)
+![alt image](Screenshoot kodingan/flowchart praktikum.jpeg)
